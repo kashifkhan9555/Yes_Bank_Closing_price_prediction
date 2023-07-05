@@ -1,1 +1,1 @@
-# Yes_Bank_Closing_price_prediction
+# Yes_Bank_Stock_Closing_price_prediction
